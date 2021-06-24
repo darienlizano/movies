@@ -17,3 +17,5 @@ I performed exploratory data analysis including regression plots, correlation pl
 ## Findings
 Gross and Budget had the highest correlation (pearson score of 0.71). Paramount Pictures production company has the highest gross in comparison to all other companies. Movies rated PG-13 earned more gross revenue than any other ratings.
 
+![](https://github.com/darienlizano/movies/blob/main/Graphs/movies_stripplot.png)
+
