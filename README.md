@@ -2,6 +2,8 @@
 
 This project consists of finding correlations using movie industry data from [kaggle.com](https://www.kaggle.com/danielgrijalvas/movies). I wanted to explore is if there is a high correlation between a movie's gross revenue and their budget.
 
+![](https://github.com/darienlizano/movies/blob/main/Graphs/budget_gross_reg.png)
+
 ## Python Version and Packages
 Python Version: Python 3.8 
 Packages Used: pandas, numpy, matplotlib, seaborn, sklearn
